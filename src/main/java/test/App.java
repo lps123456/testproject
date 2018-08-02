@@ -6,6 +6,7 @@ package test;
  */
 public class App 
 {
+   
     //.编写一个截取字符串的函数，输入为一个字符串和字节数，
     // 输出为按字节截取的字符串，但要保证汉字不被截取半个
     public static void main( String[] args )
